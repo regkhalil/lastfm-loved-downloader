@@ -1,0 +1,10 @@
+
+/* has to be renamed to config.json and the required values need to be set */
+
+
+{
+    "lastFmApiKey":"your_last_fm_api_key",
+    "applicationName": "lastfm-loved-downloader",
+    "lastFmUser": "last_fm_user_name",
+    "outputDirectory": "/path/to/output/directory/"
+}
